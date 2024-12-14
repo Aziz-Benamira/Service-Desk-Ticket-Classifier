@@ -32,8 +32,9 @@ Ensure you have the following installed:
 - scikit-learn
 - NLTK
 - torchmetrics
-- NumPy
 - pandas
+- NumPy
+
 
 ### Steps
 1. Clone the repository:
