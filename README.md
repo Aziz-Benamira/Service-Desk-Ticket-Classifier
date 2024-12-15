@@ -35,7 +35,6 @@ Ensure you have the following installed:
 - pandas
 - NumPy
 
-
 ### Steps
 1. Clone the repository:
    ```bash
